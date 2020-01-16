@@ -13,13 +13,13 @@
       "channel":"google_play_store",
       "version": 7,
       "name": "2.1.0",
-      "release_note":"Add support in China, Vietnam Visa"
+      "release_notes":"Add support in China, Vietnam Visa in Google version"
     },
     {
       "channel":"tencent",
       "version": 7,
       "name": "2.1.0",
-      "release_note":"Add support in China, Vietnam Visa"
+      "release_notes":"Add support in China, Vietnam Visa in Tencent version"
     } 
   ]
 }
