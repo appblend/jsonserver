@@ -10,7 +10,7 @@
   },
   "ariadirect": {
     "version": "2.2"
-    "subversion": "0"
-    "release_note": "it is testing release note"
+    "subversion" : "0"
+    "release_note" : "it is testing release note"
   }
 }
