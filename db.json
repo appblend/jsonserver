@@ -7,5 +7,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "ariadirect": {
+    "version": "2.2"
+    "subversion": "0"
+    "release_note":"it is testing release note"
   }
 }
