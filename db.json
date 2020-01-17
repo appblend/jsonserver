@@ -20,6 +20,12 @@
       "version": 8,
       "name": "2.1.0",
       "release_notes":"Add support in China, Vietnam Visa in Tencent version"
-    } 
+    },
+    {
+      "channel":"ios",
+      "version": 12,
+      "name": "2.1.0",
+      "release_notes":"Add support in China, Vietnam Visa in Tencent version"
+    }
   ]
 }
