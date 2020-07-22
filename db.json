@@ -48,5 +48,102 @@
               "thumb" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerFun.jpg",
               "title" : "For Bigger Fun"
             }
-    ]
+    ],
+	"scenes":  [
+    {
+      "sid": 1,
+      "name": "scene one",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "status_segment": [
+	      {
+		"id":"1",
+		"editable":"true",
+		"start":"10000",
+		"end":"30000"
+		},
+	      {
+		"id":"2",
+		"editable":"true",
+		"start":"35000",
+		"end":"65000"
+		}
+	],
+      "tuning_segment": [
+	      {
+		"id":"1",
+		"editable":"true",
+		"start":"20000",
+		"end":"20000"
+		},
+	      {
+		"id":"2",
+		"editable":"true",
+		"start":"50000",
+		"end":"50000"
+		}
+	],
+        "trigger_segment": [
+	      {
+		"id":"1",
+		"editable":"true",
+		"start":"25000",
+		"end":"25000"
+		},
+	      {
+		"id":"2",
+		"editable":"true",
+		"start":"40000",
+		"end":"40000"
+		}
+	]
+    },
+	    {
+      "sid": 2,
+      "name": "scene two",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "status_segment": [
+	      {
+		"id":"1",
+		"editable":"true",
+		"start":"10000",
+		"end":"30000"
+		},
+	      {
+		"id":"2",
+		"editable":"true",
+		"start":"35000",
+		"end":"65000"
+		}
+	],
+      "tuning_segment": [
+	      {
+		"id":"1",
+		"editable":"true",
+		"start":"20000",
+		"end":"20000"
+		},
+	      {
+		"id":"2",
+		"editable":"true",
+		"start":"50000",
+		"end":"50000"
+		}
+	],
+        "trigger_segment": [
+	      {
+		"id":"1",
+		"editable":"true",
+		"start":"25000",
+		"end":"25000"
+		},
+	      {
+		"id":"2",
+		"editable":"true",
+		"start":"40000",
+		"end":"40000"
+		}
+	]
+    }
+   
+  ]
 }
